@@ -1,0 +1,2 @@
+If you encounter an ESP32 upload issue, check if the driver is installed properly by looking in the Device Manager
+driver link - https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
